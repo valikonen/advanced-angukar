@@ -1,0 +1,8 @@
+:host {
+    border-color: lightgrey;
+    background: white;
+}
+:host(.input-focus) {
+    border-color: lightblue;
+    box-shadow: 0 0 5px lightblue;
+}

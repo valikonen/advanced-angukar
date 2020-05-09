@@ -1,0 +1,9 @@
+:host-context(.au-fa-input-red-theme) {
+    border-color: orangered;
+    background: white;
+}
+
+:host-context(.au-fa-input-red-theme).input-focus {
+    border-color: orangered;
+    box-shadow: 0 0 5px orangered;
+}
